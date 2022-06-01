@@ -13,10 +13,9 @@ const Work = () => {
           <p className="py-6">// Check out some of my recent work</p>
         </div>
 
-        {/* Container */} 
+        {/* Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-            
-            {/* Grid Item*/}
+          {/* Grid Item*/}
           <div
             style={{ backgroundImage: `url(${WorkImg})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -108,7 +107,8 @@ const Work = () => {
                 </a>
               </div>
             </div>
-          </div> <div
+          </div>{" "}
+          <div
             style={{ backgroundImage: `url(${WorkImg})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >

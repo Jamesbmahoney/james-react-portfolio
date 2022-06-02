@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 import fridgeRaider from "../assets/fridge-raider.jpg";
 import runBuddy from "../assets/run-buddy.jpg";

@@ -6,10 +6,10 @@ import xyzRental from "../assets/xyz-rental.jpg";
 
 const Work = () => {
   return (
-    <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
+    <div name="work" className="w-full md:h-screen text-[#a6a6a6] bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto o-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[#D10069]">
+          <p className="text-4xl font-bold inline border-b-4 text-[#a6a6a6] border-[#D10069]">
             Work
           </p>
           <p className="py-6">// Check out some of my recent work</p>
@@ -28,12 +28,12 @@ const Work = () => {
                 API Recipe Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/recipe-builder/">
+                <a href="https://jamesbmahoney.github.io/recipe-builder/" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/recipe-builder">
+                <a href="https://github.com/Jamesbmahoney/recipe-builder" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -51,12 +51,12 @@ const Work = () => {
                 SPA Login Website
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/run-buddy/">
+                <a href="https://jamesbmahoney.github.io/run-buddy/" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/run-buddy">
+                <a href="https://github.com/Jamesbmahoney/run-buddy" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -74,12 +74,12 @@ const Work = () => {
                 JS Weather App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/weather-it-be/">
+                <a href="https://jamesbmahoney.github.io/weather-it-be/" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/weather-it-be">
+                <a href="https://github.com/Jamesbmahoney/weather-it-be" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -97,12 +97,12 @@ const Work = () => {
                Node/Express Car Rental Review Site
               </span>
               <div className="pt-8 text-center">
-                <a href="https://secret-savannah-63468.herokuapp.com/">
+                <a href="https://secret-savannah-63468.herokuapp.com/" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/ryanweiler92/XYZ-Rentals">
+                <a href="https://github.com/ryanweiler92/XYZ-Rentals" target="_blank" rel="noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

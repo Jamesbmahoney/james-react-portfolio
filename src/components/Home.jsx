@@ -1,5 +1,6 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
+import Work from "./Work";
 
 const Home = () => {
   return (
@@ -23,8 +24,8 @@ const Home = () => {
           <button className="text-white  group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#800040]">
             View Work
             <span className="group-hover:rotate-90 duration-300">
-              <HiArrowNarrowRight className="ml-3" />
-            </span>
+              <HiArrowNarrowRight className="ml-3" />              
+            </span>            
           </button>
         </div>
       </div>

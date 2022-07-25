@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/james-react-portfolio/static/css/main.44a0c4b0.css",
-    "main.js": "/james-react-portfolio/static/js/main.b8a3d308.js",
+    "main.js": "/james-react-portfolio/static/js/main.e481b3bd.js",
+    "static/media/amazon-clone.jpg": "/james-react-portfolio/static/media/amazon-clone.9262dd0c4121176d4984.jpg",
     "static/media/run-buddy.jpg": "/james-react-portfolio/static/media/run-buddy.0a4ba69b44de376a6fca.jpg",
     "static/media/xyz-rental.jpg": "/james-react-portfolio/static/media/xyz-rental.21fd6a5a5d8395b5fef5.jpg",
     "static/media/fridge-raider.jpg": "/james-react-portfolio/static/media/fridge-raider.e3a5cf4ae2f4d9eadb49.jpg",
@@ -17,10 +18,10 @@
     "static/media/javascript.png": "/james-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/james-react-portfolio/index.html",
     "main.44a0c4b0.css.map": "/james-react-portfolio/static/css/main.44a0c4b0.css.map",
-    "main.b8a3d308.js.map": "/james-react-portfolio/static/js/main.b8a3d308.js.map"
+    "main.e481b3bd.js.map": "/james-react-portfolio/static/js/main.e481b3bd.js.map"
   },
   "entrypoints": [
     "static/css/main.44a0c4b0.css",
-    "static/js/main.b8a3d308.js"
+    "static/js/main.e481b3bd.js"
   ]
 }

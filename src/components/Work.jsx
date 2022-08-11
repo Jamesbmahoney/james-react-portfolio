@@ -4,6 +4,8 @@ import fridgeRaider from "../assets/fridge-raider.jpg";
 import runBuddy from "../assets/run-buddy.jpg";
 import weatherItBe from "../assets/weather-it-be.jpg";
 import xyzRental from "../assets/xyz-rental.jpg";
+import amazonClone from "../assets/amazon-clone.jpg";
+import spotifyClone from "../assets/spotify-nextjs.jpg";
 
 const Work = () => {
   return (
@@ -20,6 +22,68 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item*/}
           <div
+            style={{ backgroundImage: `url(${spotifyClone})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                React Amazon Clone
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://www.youtube.com/watch?v=MSppJAu_6-0"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/Jamesbmahoney/spotify-nextjs"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${amazonClone})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                React Amazon Clone
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://clone-3f5fd.web.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/Jamesbmahoney/amazon-clone"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
             style={{ backgroundImage: `url(${fridgeRaider})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -29,12 +93,20 @@ const Work = () => {
                 API Recipe Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/recipe-builder/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://jamesbmahoney.github.io/recipe-builder/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/recipe-builder" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/Jamesbmahoney/recipe-builder"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -52,12 +124,20 @@ const Work = () => {
                 SPA Login Website
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/run-buddy/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://jamesbmahoney.github.io/run-buddy/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/run-buddy" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/Jamesbmahoney/run-buddy"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -75,12 +155,20 @@ const Work = () => {
                 JS Weather App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://jamesbmahoney.github.io/weather-it-be/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://jamesbmahoney.github.io/weather-it-be/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Jamesbmahoney/weather-it-be" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/Jamesbmahoney/weather-it-be"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -95,15 +183,23 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-               Node/Express Car Rental Review Site
+                Node Car Rental Site
               </span>
               <div className="pt-8 text-center">
-                <a href="https://secret-savannah-63468.herokuapp.com/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://secret-savannah-63468.herokuapp.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/ryanweiler92/XYZ-Rentals" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/ryanweiler92/XYZ-Rentals"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

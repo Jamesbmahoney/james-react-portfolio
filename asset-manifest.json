@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/james-react-portfolio/static/css/main.44a0c4b0.css",
-    "main.js": "/james-react-portfolio/static/js/main.2c62337a.js",
+    "main.js": "/james-react-portfolio/static/js/main.9e2df3e0.js",
     "static/media/spotify-nextjs.jpg": "/james-react-portfolio/static/media/spotify-nextjs.af4d1c8f0adba5decded.jpg",
     "static/media/amazon-clone.jpg": "/james-react-portfolio/static/media/amazon-clone.9262dd0c4121176d4984.jpg",
     "static/media/run-buddy.jpg": "/james-react-portfolio/static/media/run-buddy.0a4ba69b44de376a6fca.jpg",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/james-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/james-react-portfolio/index.html",
     "main.44a0c4b0.css.map": "/james-react-portfolio/static/css/main.44a0c4b0.css.map",
-    "main.2c62337a.js.map": "/james-react-portfolio/static/js/main.2c62337a.js.map"
+    "main.9e2df3e0.js.map": "/james-react-portfolio/static/js/main.9e2df3e0.js.map"
   },
   "entrypoints": [
     "static/css/main.44a0c4b0.css",
-    "static/js/main.2c62337a.js"
+    "static/js/main.9e2df3e0.js"
   ]
 }
